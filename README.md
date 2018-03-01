@@ -6,6 +6,5 @@ Setup:<br>
 
 运行完毕在本地生成以QQ群名称为文件名的txt文件,其中包含群内所有成员<br>
 >>![](https://github.com/crazyxw/QQGroupSpider/raw/master/images/qqgroup.png)<br>
-格式:<br>
-昵称----QQ号----进群时间
->>![](https://github.com/crazyxw/QQGroupSpider/raw/master/images/qq.png)<br>
+格式:   昵称----QQ号----进群时间<br>
+  ![](https://github.com/crazyxw/QQGroupSpider/raw/master/images/qq.png)<br>
